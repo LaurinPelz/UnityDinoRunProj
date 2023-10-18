@@ -66,15 +66,21 @@ crashlytics-build.properties
 
 # Packed Addressables
 <<<<<<< HEAD
+<<<<<<< HEAD
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata//.bin*
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 =======
+=======
+>>>>>>> origin/main
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
 >>>>>>> 2d58bb8 (Initial commit)
+=======
+>>>>>>> origin/main
